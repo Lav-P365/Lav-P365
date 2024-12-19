@@ -67,6 +67,5 @@ Welcome to my GitHub! I'm a passionate Full-Stack Developer with a strong founda
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lav-p365&show_icons=true&locale=en" alt="lav-p365" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lav-p365&" alt="lav-p365" /></p>
 
 ###
