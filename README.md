@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me <br>
+<h3 align="left">👩‍💻  About Me <br> <br>
 Welcome to my GitHub! I'm a passionate Full-Stack Developer with a strong foundation in building scalable, high-quality, and user-friendly applications. </h3>
 
 ###
