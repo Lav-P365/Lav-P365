@@ -64,7 +64,7 @@ Welcome to my GitHub! I'm a passionate Full-Stack Developer with a strong founda
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <imgsrc="https://github-readme-stats.vercel.app/api/top-langs?username=lav-p365&show_icons=true&locale=en&layout=compact" alt="lav-p365"  />
 </div>
 
 ###
