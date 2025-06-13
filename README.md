@@ -27,7 +27,7 @@ Welcome to my GitHub! I'm a passionate Full-Stack Developer with a strong founda
 
 ###
 
-<p align="left">I'm from India<br>- 📚 I'm currently studying in Fanshawe College<br>- ⚡ In my free time I would like to play Pool aand Badminton</p>
+<p align="left">I'm from India<br>- 📚 Graduated from Fanshawe College<br>- ⚡ In my free time I would like to play Pool and Badminton</p>
 
 ###
 
